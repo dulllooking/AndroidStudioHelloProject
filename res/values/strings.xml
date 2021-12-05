@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">HelloProject1</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_dull_app2">DullApp2</string>
+    <string name="title_activity_dull_app3">DullApp3</string>
+    <string name="title_activity_dull_app4">DullApp4</string>
+    <string name="title_activity_dull_app5">DullApp5</string>
+    <string name="title_activity_dull_app4_1">DullApp4_1</string>
+    <string name="title_activity_dull_app6">DullApp6</string>
+    <string name="title_activity_dull_app7">DullApp7</string>
+    <string name="title_activity_dull_app8">DullApp8</string>
+    <string name="title_activity_dull_app9">DullApp9</string>
+    <string name="title_activity_dull_app10">DullApp10</string>
+    <string name="title_activity_dull_app11">DullApp11</string>
+    <string name="title_activity_dull_app12">DullApp12</string>
+    <string name="title_activity_dull_app13">DullApp13</string>
+    <string name="title_activity_dull_app14">DullApp14</string>
+    <string name="title_activity_dull_app15">DullApp15</string>
+    <string name="title_activity_dull_app16">DullApp16</string>
+    <string name="title_activity_dull_spinner1">DullSpinner1</string>
+
+    <string-array name="data2">
+        <item>Java</item>
+        <item>C++</item>
+        <item>Delphi</item>
+        <item>Html</item>
+        <item>Php</item>
+    </string-array>
+
+    <string name="title_activity_dull_spinner2">DullSpinner2</string>
+
+    <string-array name="datasource">
+        <item>預設選項</item>
+        <item>春天</item>
+        <item>夏天</item>
+        <item>秋天</item>
+        <item>冬天</item>
+    </string-array>
+
+    <string name="title_activity_dull_listview1">DullListview1</string>
+    <string name="title_activity_dull_listview2">DullListview2</string>
+    <string name="title_activity_dull_hash_map1">DullHashMap1</string>
+    <string name="title_activity_dull_hash_map2">DullHashMap2</string>
+    <string name="title_activity_dull_listview3">DullListview3</string>
+    <string name="title_activity_dull_gridview1">DullGridview1</string>
+
+    <string-array name="datasource2">
+        <item>A2</item>
+        <item>B2</item>
+        <item>C2</item>
+        <item>D2</item>
+        <item>E2</item>
+        <item>F2</item>
+        <item>G2</item>
+        <item>H2</item>
+        <item>I2</item>
+        <item>J2</item>
+        <item>K2</item>
+    </string-array>
+
+    <string name="title_activity_dull_gridview2">DullGridview2</string>
+    <string name="title_activity_dull_arraymaxmin1">DullArraymaxmin1</string>
+    <string name="title_activity_dull_listviewhk1">DullListviewhk1</string>
+    <string name="title_activity_dull_listviewhk2">DullListviewhk2</string>
+    <string name="title_activity_dull_auto_complete1">DullAutoComplete1</string>
+    <string name="title_activity_dull_dialog_layout1">DullDialogLayout1</string>
+    <string name="title_activity_dull_rating_bar1">DullRatingBar1</string>
+    <string name="title_activity_dull_optionmenu1">DullOptionmenu1</string>
+    <string name="title_activity_dull_web_view1">DullWebView1</string>
+    <string name="title_activity_dull_web_view2">DullWebView2</string>
+    <string name="title_activity_dull_intent1">DullIntent1</string>
+    <string name="title_activity_dullsub1">Dullsub1</string>
+    <string name="title_activity_dull_list_view_buy1">DullListViewBuy1</string>
+    <string name="title_activity_dull_web_view3">DullWebView3</string>
+    <string name="title_activity_dull_button_change1">DullButtonChange1</string>
+    <string name="title_activity_dullinclude1">Dullinclude1</string>
+    <string name="title_activity_dull_timer1">DullTimer1</string>
+    <string name="title_activity_dull_login">DullLogin</string>
+    <string name="title_activity_dull_login_sub">DullLoginSub</string>
+    <string name="title_activity_dull_thread1">DullThread1</string>
+    <string name="title_activity_dull_fileio1">DullFileio1</string>
+    <string name="title_activity_student_score">StudentScore</string>
+    <string name="title_activity_dullscorelist1">Dullscorelist1</string>
+    <string name="title_activity_persondatabase1">Persondatabase1</string>
+    <string name="title_activity_dulllogin1_main">Dulllogin1MainActivity</string>
+    <string name="title_activity_persondatabase2">Persondatabase2</string>
+    <string name="title_activity_androiddb">Androiddb</string>
+    <string name="title_activity_androiddb2">Androiddb2</string>
+    <string name="title_activity_dulldate1">Dulldate1</string>
+    <string name="title_activity_dull_date2">DullDate2</string>
+    <string name="title_activity_dullproject8">Dullproject8</string>
+    <string name="title_activity_dullprogress1">Dullprogress1</string>
+    <string name="title_activity_dullprogress_dialog1">DullprogressDialog1</string>
+    <string name="title_activity_numberpicker1">Numberpicker1</string>
+    <string name="title_activity_test">Test</string>
+
+</resources>

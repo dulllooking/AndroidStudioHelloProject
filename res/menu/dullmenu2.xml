@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <group android:checkableBehavior="single">
+        <item android:id="@+id/a1" android:checked="false"
+            android:title="Java"/>
+        
+        <item android:id="@+id/a2" android:checked="false"
+            android:title="C++"/>
+        
+        <item android:id="@+id/a3" android:checked="false"
+            android:title="Delphi"/>
+        
+        <item android:id="@+id/a4" android:checked="false"
+            android:title="Html"/>
+        
+        <item android:id="@+id/a5" android:checked="false"
+            android:title="Python"/>
+    </group>
+    
+
+</menu>
